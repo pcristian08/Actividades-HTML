@@ -1,0 +1,9 @@
+Prettier
+Auto Rename TAG
+Composer
+ES7 + React/Redux/React-Native snippets
+ESLint
+HTML End Tag Label
+Indent-rainbow
+Live server
+Open in browser
